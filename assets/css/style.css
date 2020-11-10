@@ -186,12 +186,11 @@ padding-bottom: 8px;
     width:50%;
     margin:0 auto;
     align-items: center;
-    box-shadow: 5px 0 5px  rgba(f,f,f,0.6);
 }
 .clients img{
     width:100%;
     border-radius: 50%;
-    padding:20px;
+    /* padding:20px; */
 }
 blockquote{
     margin-right: 10px;
